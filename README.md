@@ -1,5 +1,5 @@
 Entire project link
-the link:- https://drive.google.com/drive/folders/1b1TyAToOMvHVrBvp8Hza5BzNN9Dsnl7M?usp=sharing
+:- https://drive.google.com/drive/folders/1b1TyAToOMvHVrBvp8Hza5BzNN9Dsnl7M?usp=sharing
 
 
 # CodeGenBridge
