@@ -1,0 +1,2 @@
+custom_success_rate,copilot_success_rate,custom_avg_time,copilot_avg_time,custom_avg_lines,copilot_avg_lines,custom_avg_rouge1,copilot_avg_rouge1,custom_avg_rougeL,copilot_avg_rougeL
+1.0,1.0,0.004362273216247559,0.005222225189208984,1.0,1.0,0.0,0.0,0.0,0.0
